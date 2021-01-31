@@ -1,0 +1,10 @@
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\bin\Debug\Youtube-dl-demo.exe.config
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\bin\Debug\Youtube-dl-demo.exe
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\bin\Debug\Youtube-dl-demo.pdb
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\obj\Debug\Youtube-dl-demo.csprojAssemblyReference.cache
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\obj\Debug\Youtube_dl_demo.Properties.Resources.resources
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\obj\Debug\Youtube-dl-demo.csproj.GenerateResource.cache
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\obj\Debug\Youtube-dl-demo.csproj.CoreCompileInputs.cache
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\obj\Debug\Youtube-dl-demo.exe
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\obj\Debug\Youtube-dl-demo.pdb
+D:\QuangNV\Youtube-dl-demo\Youtube-dl-demo\obj\Debug\Youtube_dl_demo.MainForm.resources
